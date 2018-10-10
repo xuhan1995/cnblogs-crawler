@@ -1,7 +1,7 @@
 {
   "name": "cnblogs-crawler",
   "version": "1.0.0",
-  "description": "爬取博�博客园首页4000篇博客",
+  "description": "爬取博客园首页4000篇博客",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
